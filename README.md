@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -247,8 +245,6 @@
     </div>
 </body>
 </html>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -765,8 +761,6 @@
     </script>
 </body>
 </html>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -1107,7 +1101,7 @@
                     <h3>Rio de Janeiro (5 nights)</h3>
                     <p><strong>The Iconic City:</strong> Christ the Redeemer, Sugarloaf Mountain, Ipanema & Copacabana beaches, legendary Lapa nightlife</p>
                     
-                   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ju12Q-yF53g?si=lc3PSufj7mcY08te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                   <iframe width="315" height="315" src="https://www.youtube.com/embed/Ju12Q-yF53g?si=lc3PSufj7mcY08te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     
                     <div class="travel-tips">
                         <h4>🎯 Must-Do Experiences</h4>
@@ -1125,7 +1119,7 @@
                     <h3>Florianópolis (4 nights)</h3>
                     <p><strong>Surf Paradise:</strong> Joaquina Beach (world-famous break), consistent November swells, sandboarding, pristine beaches, Brazilian surf culture</p>
                     
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Bte3SvSZXjU?si=C2ggusM0s1Elw0up" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="315" height="315" src="https://www.youtube.com/embed/Bte3SvSZXjU?si=C2ggusM0s1Elw0up" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     
                     <div class="travel-tips">
                         <h4>🏄‍♂️ Surf Spots Ranking</h4>
@@ -1143,7 +1137,7 @@
                     <h3>Buenos Aires (4 nights)</h3>
                     <p><strong>Cultural Capital:</strong> World-class tango shows, legendary steaks, Palermo & San Telmo neighborhoods, vibrant spring weather</p>
                     
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/4sbYjI_AtmY?si=D9ulqNLPLvF5Yatb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe width="315" height="315" src="https://www.youtube.com/embed/4sbYjI_AtmY?si=D9ulqNLPLvF5Yatb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     
                     <div class="travel-tips">
                         <h4>🥩 Foodie Paradise</h4>

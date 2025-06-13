@@ -4383,7 +4383,7 @@
 
             <div style="text-align: center; margin-top: 40px;">
                 <h3>📞 Questions or Technical Issues?</h3>
-                <p style="color: #666; margin: 15px 0;">Contact the trip coordinator if you have any problems with the forms</p>
+                <p style="color: #666; margin: 15px 0;">I don't care! Just fill out the fucking forms!</p>
                 <div style="margin-top: 20px;">
                     <a href="mailto:epic.surf.trip.2025@gmail.com" class="link-button" target="_blank">📧 Email Trip Coordinator</a>
                     <a href="https://wa.me/15551234567" class="link-button" target="_blank">💬 WhatsApp Support</a>
